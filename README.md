@@ -1,8 +1,10 @@
-<div align="center">
+<d<div align="center">
 
 # CPE21S4 — DATA STRUCTURES AND ALGORITHMS
 
 ### Hands-On Activities Compilation
+
+<img src="./Cat%20Coding%20GIF.gif" width="200" alt="Cat Coding GIF">
 
 ---
 
@@ -28,7 +30,6 @@ This compilation also serves as a record of my progress in developing programmin
 | HOA 1 | *Activity title* | In Progress |
 | HOA 2 | *Activity title* | In Progress |
 | HOA 3 | *Activity title* | In Progress |
-
 
 ---
 
