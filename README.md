@@ -6,8 +6,6 @@
 
 ---
 
-*A record of learning and progress in programming.*
-
 </div>
 
 ## About This Repository
