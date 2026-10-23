@@ -10,7 +10,7 @@
 
 ## About This Repository
 
-This repository contains my Hands-On Activities (HOA) for CPE010: Data Structures and Algorithms. It includes the C++ programs I have developed, along with our outputs, screenshots, analysis, and conclusions. Each activity reflects my understanding of the lessons discussed in class.
+This repository contains my Hands-On Activities (HOA) for CPE010: Data Structures and Algorithms. It includes the C++ outputs, screenshots, analysis, and conclusions. Each activity reflects my understanding of the lessons discussed in class.
 
 This compilation also serves as a record of my progress in developing programming skills, improving my problem-solving abilities, and understanding how data structures and algorithms work.
 
