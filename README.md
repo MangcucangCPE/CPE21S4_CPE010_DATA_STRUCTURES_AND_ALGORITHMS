@@ -36,8 +36,6 @@ This compilation also serves as a record of my progress in developing programmin
 
 <div align="center">
 
-### LEARN • PRACTICE • IMPROVE
-
 *Every activity is an opportunity to learn, develop new skills, and become a better programmer.*
 
 </div>
