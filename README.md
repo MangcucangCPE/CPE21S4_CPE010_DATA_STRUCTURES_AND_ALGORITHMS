@@ -31,7 +31,6 @@ This compilation also serves as a record of my progress in developing programmin
 | HOA 2 | *Activity title* | In Progress |
 | HOA 3 | *Activity title* | In Progress |
 
-*Additional activities will be added as the course progresses.*
 
 ---
 
