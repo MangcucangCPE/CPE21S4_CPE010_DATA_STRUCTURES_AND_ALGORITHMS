@@ -1,4 +1,4 @@
-<d<div align="center">
+<div align="center">
 
 # CPE21S4 — DATA STRUCTURES AND ALGORITHMS
 
