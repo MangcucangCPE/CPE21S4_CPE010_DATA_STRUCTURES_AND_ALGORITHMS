@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./sparkle.svg" width="100%" alt="Animated blue sparkles">
 
 # CPE21S4 — DATA STRUCTURES AND ALGORITHMS
 
