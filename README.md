@@ -42,9 +42,9 @@ As a student, I'm continuously developing my coding skills, improving my logical
 This repository represents my learning journey in **Data Structures and Algorithms**, where I compile my hands-on activities, source codes, outputs, and progress throughout the course.
 
 - 🎓 **Course:** Computer Engineering
-- 💻 **Currently Learning:** C++ Programming, Data Structures, and Algorithms
-- 🌱 **Goal:** To improve my programming skills and become a better problem-solver
-- 🚀 **Mindset:** Learn, practice, make mistakes, and keep improving
+- 💻 **Currently Learning:** C++ Programming
+- 🌱 **Goal:** To improve my programming skills!
+- 🚀 **Mindset:** Learn, practice, make mistakes, and keep improving.
 
 <div align="center">
 
