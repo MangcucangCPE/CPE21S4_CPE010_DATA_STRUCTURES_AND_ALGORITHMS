@@ -1,7 +1,4 @@
-
-<div align="center">
-
-# 7777
+ <div align="center">
 
 # CPE010 — DATA STRUCTURES AND ALGORITHMS
 
@@ -15,6 +12,7 @@
 
 <br>
 
+<a href="#about-me">👩‍💻 ABOUT ME</a> ·
 <a href="#explore-my-activities">📂 EXPLORE ACTIVITIES</a> ·
 <a href="#technologies-used">💻 TECHNOLOGIES</a> ·
 <a href="#learning-goals">🎯 LEARNING GOALS</a>
@@ -30,6 +28,29 @@ Welcome to my **Data Structures and Algorithms Hands-On Activities Compilation!*
 This repository contains my programming activities organized by academic term. Each folder contains the corresponding activities and files for easy access and navigation.
 
 My goal is to improve my programming skills, understand data structures, and learn through practice.
+
+---
+
+<a id="about-me"></a>
+
+## 👩‍💻 About Me
+
+Hi! I'm **Rhianne Mangcucang**, a Computer Engineering student learning and exploring the world of programming.
+
+As a student, I'm continuously developing my coding skills, improving my logical thinking, and learning how to solve problems through programming. Every activity gives me a chance to learn from my mistakes, discover new concepts, and become more confident in writing code.
+
+This repository represents my learning journey in **Data Structures and Algorithms**, where I compile my hands-on activities, source codes, outputs, and progress throughout the course.
+
+- 🎓 **Course:** Computer Engineering
+- 💻 **Currently Learning:** C++ Programming, Data Structures, and Algorithms
+- 🌱 **Goal:** To improve my programming skills and become a better problem-solver
+- 🚀 **Mindset:** Learn, practice, make mistakes, and keep improving
+
+<div align="center">
+
+*“I'm still learning, but every line of code is a step forward!”* ♡
+
+</div>
 
 ---
 
@@ -64,7 +85,7 @@ Choose a term below to view its activities. Click the links to open the correspo
 ## 🗂️ Repository Structure
 
 ```text
-7777/
+cpe21s4_cpe010_data_structures_and_algorihtm/
 ├── README.md
 ├── Cat Coding GIF.gif
 └── ACTIVITIES/
