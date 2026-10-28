@@ -126,7 +126,7 @@ Each term has its own folder to keep the activities organized and easy to find.
 
 ---
 
-## 🌱 My Coding Journey
+##  My Coding Journey
 
 Every activity is an opportunity to learn something new. Through practice, mistakes, and improvements, I hope to become more confident in programming and problem-solving.
 
